@@ -27,10 +27,10 @@ interests:
 education:
   courses:
   - course: Exchange Student in Computer Science
-    institution: University of California, Santa Barbara, GPA: 4.0/4.0
+    institution: University of California, Santa Barbara
     year: 2019.3-2019.6
   - course: B.Eng. in Computer Science and Electronic Engineering
-    institution: UESTC, Yingcai Honors College, GPA: 3.92/4.0
+    institution: UESTC, Yingcai Honors College
     year: 2016.9-2020.6
 
 # Social/Academic Networking

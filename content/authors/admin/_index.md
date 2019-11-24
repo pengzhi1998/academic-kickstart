@@ -71,6 +71,6 @@ user_groups:
 
 Hi there, thank you for visiting my webpage!<br>
 I'm Pengzhi, a senior undergraduate from UESTC. As a student who is majoring in computer science as well as electronic engineering, 
-I'd like to devote myself one day to the scientific research or industry on robotics and deep reinforcement learning.<br>
+I'd like to devote myself to the research on robotics as well as deep reinforcement learning.<br>
 I'm also fond of handcrafting, swimming, photography, biking, diving and movies.<br>
 

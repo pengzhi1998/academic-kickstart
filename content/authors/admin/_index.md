@@ -66,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-hello world~
-
-I'm Pengzhi, a young man who is keeping exploring and thinking.
+HELLO WORLD. I'm Pengzhi, a senior undergraduate from UESTC. I major in computer science as well as electronic engineering. As an engineering student, I'm fond of handcrafting, traveling, swimming, photography, biking, diving and movies. Hopefully we have some commons. Enjoy yourself!

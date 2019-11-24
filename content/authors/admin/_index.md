@@ -28,11 +28,11 @@ education:
   courses:
   - course: Exchange Student in Computer Science
     institution: University of California, Santa Barbara
-#    institution: GPA: 4.0/4.0
+    institution: GPA: 4.0/4.0
     year: 2019.3-2019.6
   - course: B.Eng. in Computer Science and Electronic Engineering
     institution: UESTC, Yingcai Honors College
-#   institution: GPA: 3.92/4.0
+    institution: GPA: 3.92/4.0
     year: 2016.9-2020.6
 
 # Social/Academic Networking
@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/CV-Pengzhi Yang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

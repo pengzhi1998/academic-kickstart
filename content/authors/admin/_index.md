@@ -66,7 +66,8 @@ user_groups:
 - Visitors
 ---
 
-public class Pengzhi:Senior Undergraduate from UESTC {<br>
+public class Pengzhi:Senior Undergraduate from UESTC<br>
+{<br>
 &emsp;&emsp;&emsp;public static string major = {"Computer Science", "Electronic Engineering"};<br>
 &emsp;&emsp;&emsp;public static string interests = {"Handcrafting", "Traveling", "Swimming", "Photography", "Biking", "Diving", "Movies"};<br>
 &emsp;&emsp;&emsp;public static string mywords = "Thank_you_for_visiting_my_webpage!";<br>

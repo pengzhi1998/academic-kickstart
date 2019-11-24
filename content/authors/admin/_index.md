@@ -67,7 +67,7 @@ user_groups:
 ---
 
 public class Pengzhi:Senior Undergraduate from UESTC{<br>
->public static string gender = "male";<br>
+&emsp;public static string gender = "male";<br>
 >public static string major = {"Computer Science", "Electronic Engineering"};<br>
 >public static string interests = {"Handcrafting", "Traveling", "Swimming", "Photography", "Biking", "Diving", "Movies"};<br>
 >public static string mywords = "Thank_you_for_visiting_my_webpage!";<br>

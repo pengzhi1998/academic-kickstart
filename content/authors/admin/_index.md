@@ -66,9 +66,7 @@ user_groups:
 - Visitors
 ---
 
-public class Pengzhi:Senior Undergraduate from UESTC<br>
-{<br>
-&emsp;&emsp;&emsp;public static string major = {"Computer Science", "Electronic Engineering"};<br>
-&emsp;&emsp;&emsp;public static string interests = {"Handcrafting", "Traveling", "Swimming", "Photography", "Biking", "Diving", "Movies"};<br>
-&emsp;&emsp;&emsp;public static string mywords = "Thank_you_for_visiting_my_webpage!";<br>
-}
+&emsp;&emsp;Hi there, thank you for visiting my webpage!<br>
+&emsp;&emsp;I'm Pengzhi, a senior undergraduate from UESTC. As a student who is majoring in computer science as well as electronic engineering, I'm also fond of handcrafting, 
+swimming, photography, biking, diving and movies.<br>
+

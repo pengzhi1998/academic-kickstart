@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "University of Electronic Science and Technology of China (UESTC)"
+  company = "B. Eng. in Computer Science and Electronic Engineering"
+  company_url = ""
+  location = "Chengdu, China"
+  date_start = "2016-09-01"
+  date_end = "2020-06-30"
+  description = """
+  GPA: 3.92/4.0"""
+
+[[experience]]
   title = "University of California, Santa Barbara (UCSB)"
   company = "Exchange Program"
   company_url = ""
@@ -27,14 +37,4 @@ date_format = "Jan 2006"
   date_end = "2019-06-14"
   description = """
   GPA: 4.0/4.0"""
-
-[[experience]]
-  title = "University of Electronic Science and Technology of China (UESTC)"
-  company = "B.Eng. in Computer Science and Electronic Engineering"
-  company_url = ""
-  location = "Chengdu, China"
-  date_start = "2016-09-01"
-  date_end = "2020-06-30"
-  description = """
-  GPA: 3.92/4.0"""
 +++

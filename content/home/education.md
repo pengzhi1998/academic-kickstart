@@ -17,15 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "University of Electronic Science and Technology of China (UESTC)"
-  company = "B.Eng. in Computer Science and Electronic Engineering"
-  company_url = ""
-  location = "Chengdu, China"
-  date_start = "2016-09-01"
-  date_end = "2020-06-30"
-  description = """
-  GPA: 3.92/4.0 """
 
 [[experience]]
   title = "University of California, Santa Barbara (UCSB)"
@@ -37,4 +28,13 @@ date_format = "Jan 2006"
   description = """
   GPA: 4.0/4.0"""
 
+[[experience]]
+  title = "University of Electronic Science and Technology of China (UESTC)"
+  company = "B.Eng. in Computer Science and Electronic Engineering"
+  company_url = ""
+  location = "Chengdu, China"
+  date_start = "2016-09-01"
+  date_end = "2020-06-30"
+  description = """
+  GPA: 3.92/4.0"""
 +++

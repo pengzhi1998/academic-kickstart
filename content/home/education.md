@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2020-06-30"
   description = """
-  GPA: 3.92/4.0"""
+  GPA:3.92/4.0"""
 
 [[experience]]
   title = "University of California, Santa Barbara (UCSB)"
@@ -36,5 +36,5 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = "2019-06-14"
   description = """
-  GPA: 4.0/4.0"""
+  GPA:4.0/4.0"""
 +++

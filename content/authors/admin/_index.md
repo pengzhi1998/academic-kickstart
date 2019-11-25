@@ -24,15 +24,6 @@ interests:
 - Robotics
 - Deep Reinforcement learning
 
-education:
-  courses:
-  - course: Exchange Student in Computer Science
-    institution: University of California, Santa Barbara
-    year: 2019.3-2019.6
-  - course: B.Eng. in Computer Science and Electronic Engineering
-    institution: UESTC, Yingcai Honors College
-    year: 2016.9-2020.6
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

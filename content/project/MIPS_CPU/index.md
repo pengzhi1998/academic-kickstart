@@ -26,8 +26,19 @@ external_link = ""
 
 +++
 
-Based on digital design and micro-processo, we implemented a 32 bits CPU in Verilog. It contains the main parts of a fully
-functional pipelined CPU. Then we embedded deep pipeline into the ALU. We ran 100 8-point
-FFT algorithm on it, And tested the project on FPGA. It is proved to be efficient 
-and reliable. The following image is the digital design for this project.
+# Overview
+Based on gate-level circuit design, we implemented a 32 bits CPU in Verilog. It contains the main parts of a fully
+functional pipelined CPU. Then we embedded deep pipeline into the ALU. <br>
+We ran 100 8-point
+FFT algorithm on it, And tested the project on FPGA (We used Basys, which is specifically designed for Vivado Design Suite). It is proved to be efficient 
+and reliable. <br>
+
+The main work for the project is as follows:
+* The eight-staged pipelined CPU design and implementation, including the control part as well as data path.
+* High efficiency assembly language of FFT.
+* Hazard detection and the test of FFT on the simulated CPU.
+
+
+
+
 ![Digital Circuit](https://upload-images.jianshu.io/upload_images/20282999-98c9f5b101a0f623.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

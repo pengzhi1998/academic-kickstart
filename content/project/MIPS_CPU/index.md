@@ -34,7 +34,7 @@ FFT algorithm on it, And tested the project on FPGA (We used Basys, which is spe
 and reliable. <br>
 
 The main work for the project is as follows: <br>
-- The eight-staged pipelined CPU design and implementation, including the control part as well as data path. <br>
+$\cdot$ The eight-staged pipelined CPU design and implementation, including the control part as well as data path. <br>
 - High efficiency assembly language of FFT. <br>
 - Hazard detection and the test of FFT on the simulated CPU.
 

@@ -26,3 +26,4 @@ image = "MIPS_CPU/FPGA.png"
 +++
 
 hello world
+![avatar](https://github.com/pengzhi1998/academic-kickstart/blob/master/static/img/MIPS_CPU/FPGA.png)

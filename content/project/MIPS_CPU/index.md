@@ -26,4 +26,4 @@ external_link = ""
 +++
 
 hello world
-![Digital Circuit](https://github.com/pengzhi1998/academic-kickstart/blob/master/static/img/MIPS_CPU/CPU.png)
+![Digital Circuit](https://upload-images.jianshu.io/upload_images/20282999-98c9f5b101a0f623.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

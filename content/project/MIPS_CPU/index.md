@@ -20,7 +20,9 @@ tags = ["School","AI","Web"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-[header] image = "MIPS_CPU/FPGA.png"
+[header]
+image = "MIPS_CPU/FPGA.png"
+
 +++
 
 hello world

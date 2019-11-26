@@ -47,5 +47,10 @@ The main work for the project is as follows:
 ### FFT
 ### Test on FPGA
 
+# Final Words
+## Future Work
+## Acknowledgement
+It's really a great project, thank you for Prof. Jianhao Hu, Prof. Shang Ma and Associate Professor Jienan Chen, they provided us with amazing materials.
+And it was great time work with Zhongyao Cao and Sufang Yang, they both are young researchers and partners.
 
 ![Digital Circuit](https://upload-images.jianshu.io/upload_images/20282999-98c9f5b101a0f623.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

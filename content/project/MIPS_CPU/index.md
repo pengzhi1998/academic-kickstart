@@ -34,12 +34,18 @@ FFT algorithm on it, And tested the project on FPGA (We used Basys, which is spe
 and reliable. <br>
 
 The main work for the project is as follows:
-- The eight-staged pipelined CPU design and implementation, including the control part as well as data path.
-- High efficiency assembly language of FFT.
+- The eight-staged pipelined CPU design and implementation, including the control part as well as data path. <br>
+- High efficiency assembly language of FFT. <br>
 - Hazard detection and the test of FFT on the simulated CPU.
 
 # Main Module Design
-
+## ALU (mainly on Multiplexer)
+## Datapath and Control
+### Control
+### Pipeline and Datapath
+## Test
+### FFT
+### Test on FPGA
 
 
 ![Digital Circuit](https://upload-images.jianshu.io/upload_images/20282999-98c9f5b101a0f623.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

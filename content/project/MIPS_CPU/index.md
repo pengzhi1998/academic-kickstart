@@ -14,12 +14,14 @@ summary = """
  
  """
  
-image_preview = "MIPS_CPU/FPGA.png"
+# image_preview = "MIPS_CPU/FPGA.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["School","AI","Web"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.educoder.net/paths/130"
+external_link = ""
 +++
+
+hello world

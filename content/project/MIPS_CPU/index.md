@@ -20,10 +20,10 @@ tags = ["School","AI","Web"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-[header]
-image = "MIPS_CPU/FPGA.png"
+# [header]
+# image = "MIPS_CPU/FPGA.png"
 
 +++
 
 hello world
-![avatar](https://github.com/pengzhi1998/academic-kickstart/blob/master/static/img/MIPS_CPU/FPGA.png)
+![Digital Circuit](https://github.com/pengzhi1998/academic-kickstart/blob/master/static/img/MIPS_CPU/CPU.png)

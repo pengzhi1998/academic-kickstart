@@ -29,12 +29,12 @@ subtitle = ""
     tag = "AI"
 
   [[content.filter_button]]
-    name = "iOS"
-    tag = "iOS"
+    name = "Robotics"
+    tag = "Robotics"
   
   #[[content.filter_button]]
-  #  name = "Android"
-  #  tag = "Android"
+  #  name = "Programming"
+  #  tag = "Programming"
   
   [[content.filter_button]]
     name = "Web"

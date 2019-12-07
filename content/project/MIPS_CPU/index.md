@@ -61,7 +61,12 @@ to realize the functions.
 ### Pipeline and Datapath
 Pipelining is a technology that decomposes instructions into multiple steps and overlaps the steps of 
 different instructions so that several instructions can be processed in parallel to speed up the process of
-porgram running.
+porgram running. Each step of the instructions has its own circuit parts to process, and each completed 
+step moves to the next step, while the previous step handles the subsequent instructions. <br>
+Over all, the pipeline is consisited of 5 parts, fetch, decode, execute, store as well as write back. But
+we adjusted the structure and function of the RAMs, one of them could write and read at the same time, while
+another one could only write or read at one time. The optimized datapath is shown below.
+![datapath.png](https://upload-images.jianshu.io/upload_images/20282999-598c6d580559b037.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## Test
 ### FFT
 ### Test on FPGA

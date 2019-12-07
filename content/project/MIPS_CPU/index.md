@@ -43,13 +43,21 @@ The main work for the project is as follows: <br>
 We were required to implement gate-level Arithmetic Logical Unit (unlike behavior-level 
 ALU, we were requested to implement the detail of the gates). When implementing it, we firstly designed
 a simple unsigned multiplier based on the image below. 
-![Multiplier Unit.png](https://upload-images.jianshu.io/upload_images/20282999-bf3f4190652a0dd1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/240)
+<div style="text-align: center">
+<img src="https://upload-images.jianshu.io/upload_images/20282999-bf3f4190652a0dd1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200"/>
+</div>
 And applied the operation of adding, shifting as well as choosing to implement the function of multiplying
 by bits. Here are 32-bit analytical circuit and the waveform of simulation.
-![32-bit multiplier.png](https://upload-images.jianshu.io/upload_images/20282999-5da882701048c11b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![16-bit multiplier.png](https://upload-images.jianshu.io/upload_images/20282999-5da882701048c11b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![waveform of multiplier.png](https://upload-images.jianshu.io/upload_images/20282999-31c1ba0a8d0fa896.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+Then, to reduce the consumption of the resource, we connected the units based on the bits and cancelled the 
+shifter. Meanwhile, we figured out in all the critical path included the multiplier. As a result, to 
+improve the efficiency of our CPU, we add registers into the ALU along with the control unit.
 ## Datapath and Control
 ### Control
+We had got all the units. But to make the CPU run smoothly, we still needed a control part. We used two decoders
+to realize the functions. 
+![Control Part.png](https://upload-images.jianshu.io/upload_images/20282999-e1178dbd8ed5ea84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### Pipeline and Datapath
 ## Test
 ### FFT
@@ -59,6 +67,6 @@ by bits. Here are 32-bit analytical circuit and the waveform of simulation.
 ## Future Work
 ## Acknowledgement
 It's really a great project, thank you for Prof. Jianhao Hu, Prof. Shang Ma and Associate Professor Jienan Chen, they provided us with amazing materials.
-And it was great time work with Zhongyao Cao and Sufang Yang, they both are young researchers and partners.
+And it was a great time work with Zhongyao Cao and Sufang Yang, they both are young researchers and partners.
 
 ![Digital Circuit](https://upload-images.jianshu.io/upload_images/20282999-98c9f5b101a0f623.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

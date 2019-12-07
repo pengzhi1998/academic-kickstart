@@ -43,7 +43,7 @@ The main work for the project is as follows: <br>
 We were required to implement gate-level Arithmetic Logical Unit (unlike behavior-level 
 ALU, we were requested to implement the detail of the gates). When implementing it, we firstly designed
 a simple unsigned multiplier based on the image below. 
-![Multiplier Unit.png](https://upload-images.jianshu.io/upload_images/20282999-bf3f4190652a0dd1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Multiplier Unit.png](https://upload-images.jianshu.io/upload_images/20282999-bf3f4190652a0dd1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/480)
 And applied the operation of adding, shifting as well as choosing to implement the function of multiplying
 by bits. Here are 32-bit analytical circuit and the waveform of simulation.
 ![32-bit multiplier.png](https://upload-images.jianshu.io/upload_images/20282999-5da882701048c11b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

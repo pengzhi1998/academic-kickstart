@@ -59,6 +59,9 @@ We had got all the units. But to make the CPU run smoothly, we still needed a co
 to realize the functions. 
 ![Control Part.png](https://upload-images.jianshu.io/upload_images/20282999-e1178dbd8ed5ea84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### Pipeline and Datapath
+Pipelining is a technology that decomposes instructions into multiple steps and overlaps the steps of 
+different instructions so that several instructions can be processed in parallel to speed up the process of
+porgram running.
 ## Test
 ### FFT
 ### Test on FPGA

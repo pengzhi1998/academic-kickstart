@@ -32,29 +32,30 @@ subtitle = ""
     name = "Robotics"
     tag = "Robotics"
   
-  #[[content.filter_button]]
-  #  name = "Programming"
-  #  tag = "Programming"
+  [[content.filter_button]]
+    name = "Programming"
+    tag = "Programming"
   
   [[content.filter_button]]
-    name = "Web"
-    tag = "Web"
-  
-  #[[content.filter_button]]
-  #  name = "Internship"
-  #  tag = "Internship"
-
-  #[[content.filter_button]]
-  #  name = "Competition"
-  #  tag = "Competition"
+    name = "CS"
+    tag = "CS"
   
   [[content.filter_button]]
-    name = "School"
-    tag = "School"
+    name = "Hardware"
+    tag = "Hardware"
+  
+  [[content.filter_button]]
+    name = "Physics"
+    tag = "Physics"
 
-  #[[content.filter_button]]
-  #  name = "Other"
-  #  tag = "Demo"
+  [[content.filter_button]]
+    name = "Simulation"
+    tag = "Simulation"
+  
+  [[content.filter_button]]
+    name = "Image Processing"
+    tag = "Image Processing"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

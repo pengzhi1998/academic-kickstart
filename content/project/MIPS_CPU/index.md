@@ -67,12 +67,23 @@ Overall, the pipeline is consisited of 5 parts, fetch, decode, execute, store as
 we adjusted the structure and function of the RAMs, one of them could write and read at the same time, while
 another one could only write or read at one time. The optimized datapath is shown below.
 ![datapath.png](img/datapath.jpg)
+However, it's not enough for the improvement of the efficiency. The multiplier in ALU had become the
+bottleneck as said before. Then we divided it again. At last, the CPU pipeline was consisted of 8 stages.
+This is called deep pipeline.
 ## Test
-### FFT
+### FFT (I'm not responsible for this part)
+As requested, we were supposed to design 8-point FFT algorithm and run it on the CPU. To test the 
+reliability of it, we calculated the 8-point FFT for 100 times. This is the FFT flow chart:
+![FFT flow chart](img/FFT.jpg)
+We implemented it then figured out it satisfied the time constraint. Our frequency was around 81.78Mhz. We won the first place of this project!
 ### Test on FPGA
-
+At last we ran the file on FPGA. (This was not the main part of our project)
 # Final Words
 ## Future Work
+There are several things we could do to improve the project:<br>
+1. Add the conflict detection to avoid the possible conflicts. <br>
+2. Design multi-Core processor. <br>
+3. Complete the function to make it deal with all the instructions.
 ## Acknowledgement
 It's really a great project, thank you for Prof. Jianhao Hu, Prof. Shang Ma and Associate Professor Jienan Chen, they provided us with amazing materials.
 And it was a great time work with Zhongyao Cao and Sufang Yang, they both are young researchers and partners.

@@ -77,7 +77,9 @@ reliability of it, we calculated the 8-point FFT for 100 times. This is the FFT 
 ![FFT flow chart](img/FFT.jpg)
 We implemented it then figured out it satisfied the time constraint. Our frequency was around 81.78Mhz. We won the first place of this project!
 ### Test on FPGA
-At last we ran the file on FPGA. (This was not the main part of our project)
+At last we ran the file on FPGA. (This was not the main part of our project) <br>
+This is the [code for this project](https://github.com/pengzhi1998/Deep-Pipelined-CPU-on-FPGA). 
+
 # Final Words
 ## Future Work
 There are several things we could do to improve the project:<br>
@@ -87,4 +89,4 @@ There are several things we could do to improve the project:<br>
 ## Acknowledgement
 It's really a great project, thank you for Prof. Jianhao Hu, Prof. Shang Ma and Associate Professor Jienan Chen, they provided us with amazing materials.
 And it was a great time work with Zhongyao Cao and Sufang Yang, they both are young researchers and partners.
-![Digital Circuit](img/CPU.jpg)
+

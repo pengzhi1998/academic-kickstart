@@ -77,5 +77,5 @@ another one could only write or read at one time. The optimized datapath is show
 It's really a great project, thank you for Prof. Jianhao Hu, Prof. Shang Ma and Associate Professor Jienan Chen, they provided us with amazing materials.
 And it was a great time work with Zhongyao Cao and Sufang Yang, they both are young researchers and partners.
 ![Digital Circuit](../../../static/img/MIPS_CPU/CPU.png)
-![Digital Circuit](../../../static/CPU.png)
+![Digital Circuit](img/CPU.png)
 ![Digital Circuit](https://upload-images.jianshu.io/upload_images/20282999-98c9f5b101a0f623.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

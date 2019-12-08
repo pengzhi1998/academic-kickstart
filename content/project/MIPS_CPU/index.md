@@ -48,7 +48,7 @@ a simple unsigned multiplier based on the image below.
 </div>
 And applied the operation of adding, shifting as well as choosing to implement the function of multiplying
 by bits. Here are 32-bit analytical circuit and the waveform of simulation.
-![16-bit multiplier.png](https://upload-images.jianshu.io/upload_images/20282999-5da882701048c11b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![16-bit multiplier.png](img/multiplier.jpg)
 ![waveform of multiplier.png](https://upload-images.jianshu.io/upload_images/20282999-31c1ba0a8d0fa896.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 Then, to reduce the consumption of the resource, we connected the units based on the bits and cancelled the 
 shifter. Meanwhile, we figured out in all the critical path included the multiplier. As a result, to 

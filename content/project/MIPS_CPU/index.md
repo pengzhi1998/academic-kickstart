@@ -57,7 +57,7 @@ improve the efficiency of our CPU, we add registers into the ALU along with the 
 ### Control
 We had got all the units. But to make the CPU run smoothly, we still needed a control part. We used two decoders
 to realize the functions. 
-![Control Part.png](https://upload-images.jianshu.io/upload_images/20282999-e1178dbd8ed5ea84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Control Part](img/Control Part.jpg)
 ### Pipeline and Datapath
 Pipelining is a technology that decomposes instructions into multiple steps and overlaps the steps of 
 different instructions so that several instructions can be processed in parallel to speed up the process of
@@ -76,6 +76,4 @@ another one could only write or read at one time. The optimized datapath is show
 ## Acknowledgement
 It's really a great project, thank you for Prof. Jianhao Hu, Prof. Shang Ma and Associate Professor Jienan Chen, they provided us with amazing materials.
 And it was a great time work with Zhongyao Cao and Sufang Yang, they both are young researchers and partners.
-![Digital Circuit](../../../static/img/MIPS_CPU/CPU.png)
-![Digital Circuit](img/CPU.png)
-![Digital Circuit](https://upload-images.jianshu.io/upload_images/20282999-98c9f5b101a0f623.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Digital Circuit](img/CPU.jpg)

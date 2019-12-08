@@ -44,7 +44,7 @@ We were required to implement gate-level Arithmetic Logical Unit (unlike behavio
 ALU, we were requested to implement the detail of the gates). When implementing it, we firstly designed
 a simple unsigned multiplier based on the image below. 
 <div style="text-align: center">
-<img src="https://upload-images.jianshu.io/upload_images/20282999-bf3f4190652a0dd1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200"/>
+<img src="img/multiplier.jpg"/>
 </div>
 And applied the operation of adding, shifting as well as choosing to implement the function of multiplying
 by bits. Here are 32-bit analytical circuit and the waveform of simulation.

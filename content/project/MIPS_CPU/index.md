@@ -44,12 +44,12 @@ We were required to implement gate-level Arithmetic Logical Unit (unlike behavio
 ALU, we were requested to implement the detail of the gates). When implementing it, we firstly designed
 a simple unsigned multiplier based on the image below. 
 <div style="text-align: center">
-<img src="img/multiplier.jpg"/>
+<img src="img/multiplier.png"/>
 </div>
 And applied the operation of adding, shifting as well as choosing to implement the function of multiplying
 by bits. Here are 32-bit analytical circuit and the waveform of simulation.
-![16-bit multiplier.png](img/multiplier.jpg)
-![waveform of multiplier.png](https://upload-images.jianshu.io/upload_images/20282999-31c1ba0a8d0fa896.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![16-bit multiplier](img/16-bit multiplier.jpg)
+![waveform of multiplier](img/waveform of multiplier.jpg)
 Then, to reduce the consumption of the resource, we connected the units based on the bits and cancelled the 
 shifter. Meanwhile, we figured out in all the critical path included the multiplier. As a result, to 
 improve the efficiency of our CPU, we add registers into the ALU along with the control unit.
@@ -66,7 +66,7 @@ step moves to the next step, while the previous step handles the subsequent inst
 Overall, the pipeline is consisited of 5 parts, fetch, decode, execute, store as well as write back. But
 we adjusted the structure and function of the RAMs, one of them could write and read at the same time, while
 another one could only write or read at one time. The optimized datapath is shown below.
-![datapath.png](https://upload-images.jianshu.io/upload_images/20282999-598c6d580559b037.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![datapath.png](img/datapath.jpg)
 ## Test
 ### FFT
 ### Test on FPGA

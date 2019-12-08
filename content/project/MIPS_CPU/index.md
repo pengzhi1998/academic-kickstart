@@ -63,7 +63,7 @@ Pipelining is a technology that decomposes instructions into multiple steps and 
 different instructions so that several instructions can be processed in parallel to speed up the process of
 porgram running. Each step of the instructions has its own circuit parts to process, and each completed 
 step moves to the next step, while the previous step handles the subsequent instructions. <br>
-Over all, the pipeline is consisited of 5 parts, fetch, decode, execute, store as well as write back. But
+Overall, the pipeline is consisited of 5 parts, fetch, decode, execute, store as well as write back. But
 we adjusted the structure and function of the RAMs, one of them could write and read at the same time, while
 another one could only write or read at one time. The optimized datapath is shown below.
 ![datapath.png](https://upload-images.jianshu.io/upload_images/20282999-598c6d580559b037.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -76,5 +76,5 @@ another one could only write or read at one time. The optimized datapath is show
 ## Acknowledgement
 It's really a great project, thank you for Prof. Jianhao Hu, Prof. Shang Ma and Associate Professor Jienan Chen, they provided us with amazing materials.
 And it was a great time work with Zhongyao Cao and Sufang Yang, they both are young researchers and partners.
-
+![Digital Circuit](../../../static/img/MIPS_CPU/CPU.png)
 ![Digital Circuit](https://upload-images.jianshu.io/upload_images/20282999-98c9f5b101a0f623.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

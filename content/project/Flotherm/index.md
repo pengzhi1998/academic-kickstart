@@ -27,8 +27,10 @@ external_link = ""
 +++
 
 # Overview
-Based on gate-level circuit design, we implemented a 32 bits CPU in Verilog. It contains the main parts of a fully
-functional pipelined CPU. Then we embedded deep pipeline into the ALU. <br>
+This project simulated the dissipation of the based on **Flotherm**. I explored 
+the relationship between heat dissipation and spread, convection and radiation.
+Then, by optimizing the structure, 
+<br>
 We ran 100 8-point
 FFT algorithm on it, And tested the project on FPGA (We used Basys, which is specifically designed for Vivado Design Suite). It is proved to be efficient 
 and reliable. <br>

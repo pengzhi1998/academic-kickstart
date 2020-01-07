@@ -26,4 +26,4 @@ the relationship between heat dissipation and spread, convection and radiation.
 Then, by optimizing the structure (the position of the elements, the number, thickness of fins, and
 the position of the fans), I kept the temperature of the monitored point below 70 and 87 degrees Celsius.
 <br>
-The report (Chinese version) for this project is [here](./flotherm.doc).
+The report (Chinese version) for this project is [here](./flotherm.pdf).

@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "Pipelined CPU implemented on FPGA"
+title = "3D Printed Catamaran"
 
 # Project summary to display on homepage.
 summary = """
@@ -16,7 +16,7 @@ summary = """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Programming","Hardware","CS"]
+tags = ["Robotics","Simulation"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

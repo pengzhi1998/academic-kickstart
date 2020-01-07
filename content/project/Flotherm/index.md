@@ -29,7 +29,8 @@ external_link = ""
 # Overview
 This project simulated the dissipation of the based on **Flotherm**. I explored 
 the relationship between heat dissipation and spread, convection and radiation.
-Then, by optimizing the structure, 
+Then, by optimizing the structure (the position of the elements, the number, thickness of fins, and
+the position of the fans), I kept the temperature of the monitored point below 70 and 87 degrees Celsius.
 <br>
 We ran 100 8-point
 FFT algorithm on it, And tested the project on FPGA (We used Basys, which is specifically designed for Vivado Design Suite). It is proved to be efficient 

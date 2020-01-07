@@ -8,8 +8,7 @@ title = "Simulation on Dissipation of Computer Framecase"
 
 # Project summary to display on homepage.
 summary = """
- This is the curriculum design for our computer achitecture course.<br>
- I'm responsible for the ALU and pipeline design
+ We simulated the dissipation of the computer case with Flotherm. <br>
  """
 
 # Tags: can be used for filtering projects.

@@ -1,10 +1,10 @@
 +++
 # Date this page was created.
-date = 2018-11-10T00:00:00
+date = 2020-01-07T00:00:00
 layout = "project"
 
 # Project title.
-title = "Pipelined CPU implemented on FPGA"
+title = "Compiler for simple C++"
 
 # Project summary to display on homepage.
 summary = """
@@ -16,14 +16,10 @@ summary = """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Programming","Hardware","CS"]
+tags = ["Programming","CS"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
-
-# [header]
-# image = "MIPS_CPU/FPGA.png"
-
 +++
 
 # Overview

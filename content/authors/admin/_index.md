@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mobile robotics, deep reinforcement learning,
-and general computer science and electrical engineering.
+and general computer science and electrical engineering. 
 
 interests:
 - Robotics

@@ -22,9 +22,6 @@ tags = ["Robotics","Simulation"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-# [header]
-# image = "MIPS_CPU/FPGA.png"
-
 +++
 
 # Background

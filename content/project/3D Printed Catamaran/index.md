@@ -8,7 +8,9 @@ title = "3D Printed Catamaran"
 
 # Project summary to display on homepage.
 summary = """
- To solve the problem of floating trash on surface, we designed a small catamaran and 3D printed it.
+ To solve the problem of floating trash on water surface, we designed a small catamaran and 3D printed
+ it. <br>
+ After that, we proposed the business plan for it and pointed out its future improvements.
  """
  
 # image_preview = "MIPS_CPU/FPGA.png"
@@ -25,13 +27,15 @@ external_link = ""
 
 +++
 
-# Overview
-Based on gate-level circuit design, we implemented a 32 bits CPU in Verilog. It contains the main parts of a fully
-functional pipelined CPU. Then we embedded deep pipeline into the ALU. <br>
-We ran 100 8-point
-FFT algorithm on it, And tested the project on FPGA (We used Basys, which is specifically designed for Vivado Design Suite). It is proved to be efficient 
-and reliable. <br>
+# Background
+China has thousands of miles of lakes and rivers, but it is still a country that is extremely short of
+water. More than 400 of 600 cities in China are short of water, and two-third of cities have inadequate
+water supplies. Such a lack of water, the reason, water pollution is the chief culprit. Facing with such
+a severe water pollution, we came up with an economical solution to deal with that -- the surface cleaner
+, which is called **Scavenger**.
 
+
+# Video
 <video src="./Xcavenger.mp4" controls="controls" width="640" height="320" autoplay="autoplay">
 Your browser does not support the video tag.
 </video>

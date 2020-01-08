@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mobile robotics, deep reinforcement learning,
+and general computer science and electrical engineering.
 
 interests:
 - Robotics
 - Deep Reinforcement learning
-- General Computer Science
+- General Computer Science and Electrical Engineering
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

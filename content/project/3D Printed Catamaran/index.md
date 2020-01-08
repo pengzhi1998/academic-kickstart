@@ -29,12 +29,12 @@ external_link = ""
 
 # Background
 China has thousands of miles of lakes and rivers, but it is still a country that is extremely short of
-water. More than 400 of 600 cities in China are short of water, and two-third of cities have inadequate
-water supplies. Such a lack of water, the reason, water pollution is the chief culprit. Facing with such
+water. More than two-third of cities have inadequate
+water supplies. Water pollution is the chief culprit for that. Facing with such
 a severe water pollution, we came up with an economical solution to deal with that -- the surface cleaner
 , which is called **Xcavenger**.
 
-
+# Video
 <video src="./Xcavenger.mp4" controls="controls" width="640" height="320" autoplay="autoplay">
 Your browser does not support the video tag.
 </video>

@@ -32,6 +32,6 @@ We ran 100 8-point
 FFT algorithm on it, And tested the project on FPGA (We used Basys, which is specifically designed for Vivado Design Suite). It is proved to be efficient 
 and reliable. <br>
 
-<video src="./Xcavenger.mpg" controls="controls" width="640" height="320" autoplay="autoplay">
-# Your browser does not support the video tag.
+<video src="./Xcavenger.mp4" controls="controls" width="640" height="320" autoplay="autoplay">
+Your browser does not support the video tag.
 </video>

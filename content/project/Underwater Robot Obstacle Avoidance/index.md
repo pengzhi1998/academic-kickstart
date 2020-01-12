@@ -8,8 +8,9 @@ title = "Underwater Obstacle Avoidance"
 
 # Project summary to display on homepage.
 summary = """
- This is the curriculum design for our computer achitecture course.<br>
- I'm responsible for the ALU and pipeline design
+ I worked on this project as an undergraduate research assistant at
+ [Dartmouth Reality and Robotics Lab](https://rlab.cs.dartmouth.edu/home/#people)
+ under Assistant Professor [Alberto Quattrini Li](https://sites.google.com/view/albertoq). <br>
  """
  
 # image_preview = "MIPS_CPU/FPGA.png"

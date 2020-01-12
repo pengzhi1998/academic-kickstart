@@ -49,7 +49,7 @@ social:
   link: files/CV-Pengzhi Yang.pdf
 - icon: 500px
   icon_pack: fab
-  link: https://500px.com/y_marcus
+  link: https://github.com/pengzhi1998/Underwater-obstacle-avoidance
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/yang.pengzhi.319

@@ -8,8 +8,8 @@ title = "Image Processing Project"
 
 # Project summary to display on homepage.
 summary = """
- This is the curriculum design for our computer achitecture course.<br>
- I'm responsible for the ALU and pipeline design
+ An implementation of image processing with different algorithms.<br>
+ The course work for Signal and Systems
  """
  
 # image_preview = "MIPS_CPU/FPGA.png"

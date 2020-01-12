@@ -1,4 +1,4 @@
----
++++
 title = "Magnetic Field Energy of Two Parallel Current-carrying Straight Wires"
 date = 2018-05-25T00:00:00
 
@@ -13,4 +13,4 @@ view: 4
 header:
   caption: ""
   image: ""
----
++++

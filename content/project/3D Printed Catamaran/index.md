@@ -35,8 +35,7 @@ a severe water pollution, we came up with an economical solution to deal with th
 We designed a small catamaran which could capture the floating trash and 3D printed it. By differentiating
 the speed of two motors, the direction of the surface robot could be changed easily. <br>
 <figure class = "half">
-	<img src = "./image3.jpg">
-	<img src = "./model.jpg">
+	<img src = "./image3.jpg"><img src = "./model.jpg">
 </figure>
 After tests, we proposed future improvements: <br>
 - Improve its flexibility and maneuverability. <br>

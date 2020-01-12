@@ -43,7 +43,7 @@ After tests, we proposed future improvements: <br>
 - Apply object detection and localization, automate the task. <br>
 I cooperated with Qizhou Wang, Yue Zhao. We drafted the business plan for this project. (not a real one,
 just a practice)
-# Video
+# Test Video
 <video src="./Xcavenger.mp4" controls="controls" width="640" height="320" autoplay="autoplay">
 Your browser does not support the video tag.
 </video>

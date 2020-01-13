@@ -22,10 +22,12 @@ publication = "In *Physics Bulletin*"
 # publication_short = "In *STC*"
 
 # Abstract.
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+abstract = "With help of Mathcad simulation, this paper draws magnetic field distribution and
+total magnetic energy curves under different current directions and different wire distance,
+thus gives a reasonable and intuitive theoretical description of the basic problem mentioned above"
 
 # Summary. An optional shortened abstract.
-summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
+# summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -80,5 +82,6 @@ tags = ["Source Themes"]
 +++
 
 {{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+This paper could be find [here](http://wltb.cnjournals.com/ch/reader/create_pdf.aspx?file_no=20181649&flag=1&journal_id=wltb&year_id=2019)
+(Chinese version).
 {{% /alert %}}

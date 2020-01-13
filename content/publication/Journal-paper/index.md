@@ -75,7 +75,7 @@ tags = ["Source Themes"]
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  Focal point (optional)
+  # Focal point (optional)
   Options: Right
   focal_point = "Image credit: [Energy](./erengy.png)"
 +++

@@ -22,7 +22,7 @@ publication = "In *Physics Bulletin*"
 # publication_short = "In *STC*"
 
 # Abstract.
-abstract = "With help of Mathcad simulation, this paper draws magnetic field distribution and total magnetic energy curves under different current directions and different wire distances, thus gives a reasonable and intuitive theoretical description of the basic problem mentioned above"
+abstract = "The distribution of magnetic field energy in parallel current-carrying straight wires is a basic problem in university physics course. Based on the principle of vector synthesis of magnetic induction intensity, this paper calculates the energy density distribution of magnetic field in two parallel long current-carrying straight wires, obtains the total magnetic energy in unit length space along the wire direction. With help of Mathcad simulation, this paper draws magnetic field distribution and total magnetic energy curves under different current directions and different wire distances, thus gives a reasonable and intuitive theoretical description of the basic problem mentioned above."
 
 # Summary. An optional shortened abstract.
 # summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
@@ -70,13 +70,14 @@ tags = ["Source Themes"]
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-  # ![energy](./energy.png)
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  Focal point (optional)
+  Options: Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Image credit: [Energy](./erengy.png)"
 +++
 
 {{% alert note %}}

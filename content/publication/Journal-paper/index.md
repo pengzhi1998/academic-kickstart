@@ -70,14 +70,14 @@ tags = ["Source Themes"]
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-  # Caption (optional)
-  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  Caption (optional)
+  caption = "Image credit: [Energy](./erengy.png)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   # Focal point (optional)
-  Options: Right
-  focal_point = "Image credit: [Energy](./erengy.png)"
+  # Options: Right
+  # focal_point = "Image credit: [Energy](./erengy.png)"
 +++
 
 {{% alert note %}}

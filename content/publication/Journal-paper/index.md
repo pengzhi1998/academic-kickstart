@@ -22,9 +22,7 @@ publication = "In *Physics Bulletin*"
 # publication_short = "In *STC*"
 
 # Abstract.
-abstract = "With help of Mathcad simulation, this paper draws magnetic field distribution and
-total magnetic energy curves under different current directions and different wire distance,
-thus gives a reasonable and intuitive theoretical description of the basic problem mentioned above"
+abstract = "With help of Mathcad simulation, this paper draws magnetic field distribution and total magnetic energy curves under different current directions and different wire distances, thus gives a reasonable and intuitive theoretical description of the basic problem mentioned above"
 
 # Summary. An optional shortened abstract.
 # summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"

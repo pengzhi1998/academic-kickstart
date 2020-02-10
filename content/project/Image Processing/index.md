@@ -8,7 +8,7 @@ title = "Image Processing Project"
 
 # Project summary to display on homepage.
 summary = """
- An implementation of image processing with different algorithms. The course project for *Signal and Systems*. And the report for it is [here](./Report.pdf) (Chinese version).
+ An implementation of image processing with different algorithms. The course project for *Signal and Systems*. [Chinese Version Summary](./Report.pdf)
  """
  
 # image_preview = "MIPS_CPU/FPGA.png"

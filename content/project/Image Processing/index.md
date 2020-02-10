@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "Image Processing Project"
+title = "Image Filters"
 
 # Project summary to display on homepage.
 summary = """

@@ -18,11 +18,9 @@ summary = """
 tags = ["AI","Robotics","CS","Image Processing"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/pengzhi1998/Underwater-obstacle-avoidance"
 
 # [header]
 # image = "MIPS_CPU/FPGA.png"
 
 +++
-
-[Github link](https://github.com/pengzhi1998/Underwater-obstacle-avoidance) for this project.

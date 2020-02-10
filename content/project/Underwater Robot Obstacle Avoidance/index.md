@@ -8,7 +8,7 @@ title = "Underwater Obstacle Avoidance"
 
 # Project summary to display on homepage.
 summary = """
- I worked on this project as an undergraduate research assistant at [Dartmouth Reality and Robotics Lab](https://rlab.cs.dartmouth.edu/home/#people) under Assistant Professor [Alberto Quattrini Li](https://sites.google.com/view/albertoq). <br>
+ I worked on this project as an undergraduate research assistant at [Dartmouth Reality and Robotics Lab](https://rlab.cs.dartmouth.edu/home/#people) under Prof. [Alberto Quattrini Li](https://sites.google.com/view/albertoq). <br>
  """
  
 # image_preview = "MIPS_CPU/FPGA.png"

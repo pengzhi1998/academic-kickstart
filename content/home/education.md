@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "University of Electronic Science and Technology of China (UESTC)"
-  company = "B. Eng. in Computer Science and Electronic Engineering"
+  company = "B. Eng. in Computer Science and Electrical Engineering"
   company_url = ""
   location = "Chengdu, China"
   date_start = "2016-09-01"

@@ -8,7 +8,7 @@ title = "Image Filters"
 
 # Project summary to display on homepage.
 summary = """
- An implementation of image processing with different algorithms. The course project for *Signal and Systems*. [Chinese Version Summary](./Report)
+ An implementation of image processing with different algorithms. The course project for *Signal and Systems*. [Chinese Version Summary](./Report.PDF)
  """
  
 # image_preview = "MIPS_CPU/FPGA.png"

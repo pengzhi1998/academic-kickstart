@@ -8,9 +8,7 @@ title = "Image Processing Project"
 
 # Project summary to display on homepage.
 summary = """
- An implementation of image processing with different algorithms.<br>
- The course project for *Signal and Systems*. [Here](https://github.com/pengzhi1998/Image-Processing-Experiment) is the code for this 
-project. And the report for it is [here](./Report.pdf) (Chinese version).
+ An implementation of image processing with different algorithms. The course project for *Signal and Systems*. [Here](https://github.com/pengzhi1998/Image-Processing-Experiment) is the code for this project. And the report for it is [here](./Report.pdf) (Chinese version).
  """
  
 # image_preview = "MIPS_CPU/FPGA.png"
@@ -20,7 +18,7 @@ project. And the report for it is [here](./Report.pdf) (Chinese version).
 tags = ["Programming","CS","Image Processing"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+# external_link = ""
 
 +++
 

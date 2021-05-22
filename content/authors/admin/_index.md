@@ -64,8 +64,7 @@ user_groups:
 - Visitors
 ---
 
-Hi there, thank you for visiting my webpage!<br>
-I'm Pengzhi, a senior undergraduate from UESTC. As a student who is majoring in EECS, 
+Hi there, thank you for visiting my webpage!<br> 
 I'd like to devote myself to the research on robotics as well as deep reinforcement learning. I'm 
 now an undergraduate research assistant at [DIG Lab](http://dig.uestc.cn/?page_id=46) under 
 Professor [Changsheng Li](http://faculty.uestc.edu.cn/lizhangsheng/en/index.htm). <br> 

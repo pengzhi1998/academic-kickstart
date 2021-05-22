@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include mobile robotics, deep reinforcement learning, and general computer science and electrical engineering. 
 
 interests:
-<!-- - Robotics
-- Deep Reinforcement learning -->
+- Robotics
+- Deep Reinforcement learning
 - General Computer Science and Electrical Engineering
 
 # Social/Academic Networking
@@ -39,14 +39,14 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-<!-- - icon: github
+- icon: github
   icon_pack: fab
-  link: https://github.com/pengzhi1998 -->
+  link: https://github.com/pengzhi1998
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-<!-- - icon: cv
+- icon: cv
   icon_pack: ai
-  link: files/CV-Pengzhi Yang.pdf -->
+  link: files/CV-Pengzhi Yang.pdf
 - icon: 500px
   icon_pack: fab
   link: https://500px.com/y_marcus
@@ -65,10 +65,9 @@ user_groups:
 ---
 
 Hi there, thank you for visiting my webpage!<br>
-I'm Pengzhi Yang!
-<!-- I'm Pengzhi, a senior undergraduate from UESTC. As a student who is majoring in EECS, 
+I'm Pengzhi, a senior undergraduate from UESTC. As a student who is majoring in EECS, 
 I'd like to devote myself to the research on robotics as well as deep reinforcement learning. I'm 
 now an undergraduate research assistant at [DIG Lab](http://dig.uestc.cn/?page_id=46) under 
 Professor [Changsheng Li](http://faculty.uestc.edu.cn/lizhangsheng/en/index.htm). <br> 
-I'm fond of handcrafting, swimming, photography, biking, diving and movies.<br> -->
+I'm fond of handcrafting, swimming, photography, biking, diving and movies.<br>
 

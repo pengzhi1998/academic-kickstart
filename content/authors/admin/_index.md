@@ -65,9 +65,9 @@ user_groups:
 ---
 
 Hi there, thank you for visiting my webpage!<br>
-<!-- I'm Pengzhi, a senior undergraduate from UESTC. As a student who is majoring in EECS, 
+I'm Pengzhi, a senior undergraduate from UESTC. As a student who is majoring in EECS, 
 I'd like to devote myself to the research on robotics as well as deep reinforcement learning. I'm 
 now an undergraduate research assistant at [DIG Lab](http://dig.uestc.cn/?page_id=46) under 
 Professor [Changsheng Li](http://faculty.uestc.edu.cn/lizhangsheng/en/index.htm). <br> 
-I'm fond of handcrafting, swimming, photography, biking, diving and movies.<br> -->
+I'm fond of handcrafting, swimming, photography, biking, diving and movies.<br> 
 

@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include mobile robotics, deep reinforcement learning, and general computer science and electrical engineering. 
 
 interests:
-- General Computer Science and Electrical Engineering
+- Computer Science 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

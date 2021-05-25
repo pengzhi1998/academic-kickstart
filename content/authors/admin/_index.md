@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-Hi there, thank you for visiting my webpage!<br> 
+Hi, thank you for visiting my webpage!<br> 
 I'm Pengzhi Yang and have just graduated as an undergraduate student from UESTC. <br> 
 I'm fond of handcrafting, swimming, photography, biking, diving and movies.<br> 
 

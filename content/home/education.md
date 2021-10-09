@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "University of Electronic Science and Technology of China (UESTC)"
+  title = "UESTC <br> Yingcai Honors College"
   company = "B. Eng. in Computer Science and Electrical Engineering"
   company_url = ""
   location = "Chengdu, China"
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "University of California, Santa Barbara (UCSB)"
-  company = "Extension Program"
+  company = "Extension Program in Computer Science"
   company_url = ""
   location = "Santa Barbara, US"
   date_start = "2019-04-01"

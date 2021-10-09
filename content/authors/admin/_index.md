@@ -1,6 +1,6 @@
 ---
 # Display name
-name: <face="STCAIYUN">楊鵬志</font>
+name: Pengzhi Yang
 
 # Username (this should match the folder name)
 authors:
@@ -22,7 +22,7 @@ bio: My research interests include CS.
 
 interests:
 - Computer Science 
-- AI, especially RL
+- AI, especially RL and deep learning
 - Robotics
 
 # Social/Academic Networking
@@ -64,6 +64,10 @@ user_groups:
 - Visitors
 ---
 
-<br><br><br>Hi, nice to see you here, amigo!<br> <face="STCAIYUN">楊鵬志</font>
+<br><br><br>Hi, nice to see you here, amigo!<br> 
+I graduated from UESTC last year in Computer Science. And
+I'm actively doing projects in AI and robotics.
+
+# <face="STCAIYUN">楊鵬志</font>
 
 

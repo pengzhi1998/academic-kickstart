@@ -16,8 +16,9 @@ tags = ["Programming","CS"]
 
 
 # Optional external URL for project (replaces project detail page).
-<!---
+
 external_link = ""
+<!---
 +++
 
 In UCSB, I took the course CS160 and finished the projects. It contained 6 projects. The first two of 

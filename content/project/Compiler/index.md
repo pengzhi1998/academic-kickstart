@@ -9,7 +9,7 @@ title = "Compiler for simple C++"
 # Project summary to display on homepage.
 summary = """
  This course project was to implement a simple compiler for C++. <br>
- Got A+ for this course!
+ Got A+ for this course at UCSB!
  """
 
 tags = ["Programming","CS"]

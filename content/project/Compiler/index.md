@@ -17,7 +17,7 @@ tags = ["Programming","CS"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 +++
-
+<!---
 In UCSB, I took the course CS160 and finished the projects. It contained 6 projects. The first two of 
 them are individual missions. Project 3-6 are an intact task. <br><br>
 In project 2, I implemented an independent scanner and LL(1) parser without any tools. But we
@@ -40,3 +40,4 @@ on).
 Meanwhile, you could find my solutions for the homework
 [here](https://github.com/pengzhi1998/Compiler-for-simple-cpp-of-UCSB-CS160). I didn't got full score for
 P2. <br>
+--->

@@ -22,7 +22,7 @@ bio: My research interests include CS.
 
 interests:
 - Computer Science 
-- AI, Especially RL
+- AI, especially RL
 - Robotics
 
 # Social/Academic Networking
@@ -33,7 +33,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: tyypz2590477658  # For a direct email link, use "mailto:test@example.org".
-- icon: link
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E9%B9%8F%E5%BF%97-%E6%9D%A8-751a67181/
 #- icon: google-scholar
@@ -65,6 +65,4 @@ user_groups:
 ---
 
 Hi, nice to see you here, amigo!<br> 
-I'm Pengzhi Yang and have just graduated as an undergraduate student from UESTC. <br> 
-I'm fond of handcrafting, swimming, photography, biking, diving and movies.<br> 
 

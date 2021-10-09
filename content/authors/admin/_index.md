@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Pengzhi Yang
+name: Pengzhi Yang 杨鹏志
 
 # Username (this should match the folder name)
 authors:

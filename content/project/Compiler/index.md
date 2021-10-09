@@ -14,8 +14,9 @@ summary = """
 
 tags = ["Programming","CS"]
 
-<!---
+
 # Optional external URL for project (replaces project detail page).
+<!---
 external_link = ""
 +++
 

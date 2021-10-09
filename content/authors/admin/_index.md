@@ -68,6 +68,6 @@ user_groups:
 I graduated from UESTC last year in Computer Science. And
 I'm actively doing projects in AI and robotics.
 
-# <face="STCAIYUN">楊鵬志</font>
+# <face="楷体">楊鵬志</font>
 
 

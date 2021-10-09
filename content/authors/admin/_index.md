@@ -10,18 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate
+role: Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Electronic Science and Technology of China (UESTC)
-  url: ""
+  url: "https://en.uestc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include CS. 
 
 interests:
 - Computer Science 
+- AI, Especially RL
+- Robotics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -31,9 +33,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: tyypz2590477658  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: link
+  icon_pack: fab
+  link: https://www.linkedin.com/in/%E9%B9%8F%E5%BF%97-%E6%9D%A8-751a67181/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -62,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-Hi, thank you for visiting my webpage!<br> 
+Hi, nice to see you here, amigo!<br> 
 I'm Pengzhi Yang and have just graduated as an undergraduate student from UESTC. <br> 
 I'm fond of handcrafting, swimming, photography, biking, diving and movies.<br> 
 

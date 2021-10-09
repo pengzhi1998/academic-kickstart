@@ -8,7 +8,7 @@ title = "Quadruped Robot Control"
 
 # Project summary to display on homepage.
 summary = """
- Intern at Tencent Robotics Lab.
+ Research Intern at Tencent RoboticsX.
  
  """
  
@@ -25,7 +25,7 @@ external_link = ""
 # image = "MIPS_CPU/FPGA.png"
 
 +++
-During the internship at Tencent Robotics Lab, I
+During the internship at Tencent RoboticsX Lab, I
  was responsible for adapting the trained model from
- Pybullet to Gazebo and Real World.
+ Pybullet to Gazebo and Real World. <br>
  Leader: Dr. Cheng Zhou

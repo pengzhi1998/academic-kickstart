@@ -26,7 +26,7 @@ external_link = ""
 
 ### An Innovative Practical Mini Catamaran, Xcavenger
 1.	Designed the catamaran in SolidWorks and 3D printed it. With infrared control, it was able to accomplish simple tasks such as water surface refuse collection.<br>
-2.	Completed the business plan for the project. The project was awarded as Excellence (top 10%) in the College Students Innovation and Entrepreneurship Competition (2018) of UESTC.
+2.	Completed the business plan for the project. The project was awarded as **Excellence (top 10%)** in the College Students Innovation and Entrepreneurship Competition (2018) of UESTC.
 
 
 ### Design
@@ -38,7 +38,7 @@ the speed of two motors, the direction of the surface robot could be changed eas
 After tests, we proposed future improvements: <br>
 1. Improve its flexibility and maneuverability. <br>
 2. Apply object detection and localization, automate the task. <br>
-I cooperated with Qizhou Wang, Yue Zhao. We drafted the business plan for this project. (not a real one,
+I cooperated with Qizhou Wang, Yue Zhao. We drafted the **business plan** for this project. (not a real one,
 just a practice)
 
 ### Test Video

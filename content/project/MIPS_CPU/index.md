@@ -54,11 +54,11 @@ Then, to reduce the consumption of the resource, we connected the units based on
 shifter. Meanwhile, we figured out in all the critical path included the multiplier. As a result, to 
 improve the efficiency of our CPU, we add registers into the ALU along with the control unit. <br>
 
-### Datapath and Control
 ##### Control
 We had got all the units. But to make the CPU run smoothly, we still needed a control part. We used two decoders
 to realize the functions. 
 ![Control Part](img/Control Part.jpg) <br>
+
 ##### Pipeline and Datapath
 Pipelining is a technology that decomposes instructions into multiple steps and overlaps the steps of 
 different instructions so that several instructions can be processed in parallel to speed up the process of
@@ -71,7 +71,8 @@ another one could only write or read at one time. The optimized datapath is show
 However, it's not enough for the improvement of the efficiency. The multiplier in ALU had become the
 bottleneck as said before. Then we divided it again. At last, the CPU pipeline was consisted of 8 stages.
 This is called deep pipeline. <br>
-## Test
+
+### Test
 ##### FFT (I'm not responsible for this part)
 As requested, we were supposed to design 8-point FFT algorithm and run it on the CPU. To test the 
 reliability of it, we calculated the 8-point FFT for 100 times. This is the FFT flow chart:

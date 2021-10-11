@@ -24,25 +24,24 @@ external_link = ""
 
 +++
 
-# Background
-China has thousands of miles of lakes and rivers, but it is still a country that is extremely short of
-water. More than two-third of cities have inadequate
-water supplies. Water pollution is the chief culprit for that. Facing with such
-a severe water pollution, we came up with an economical solution to deal with that -- the surface cleaner
-, which is called **Xcavenger**. <br>
+### An Innovative Practical Mini Catamaran, Xcavenger
+1.	Designed the catamaran in SolidWorks and 3D printed it. With infrared control, it was able to accomplish simple tasks such as water surface refuse collection.<br>
+2.	Completed the business plan for the project. The project was awarded as Excellence (top 10%) in the College Students Innovation and Entrepreneurship Competition (2018) of UESTC.
 
-# Design
+
+### Design
 We designed a small catamaran which could capture the floating trash and 3D printed it. By differentiating
 the speed of two motors, the direction of the surface robot could be changed easily. <br>
 <figure class = "half">
 	<img src = "./model.jpg">
 </figure>
 After tests, we proposed future improvements: <br>
-- Improve its flexibility and maneuverability. <br>
-- Apply object detection and localization, automate the task. <br>
+1. Improve its flexibility and maneuverability. <br>
+2. Apply object detection and localization, automate the task. <br>
 I cooperated with Qizhou Wang, Yue Zhao. We drafted the business plan for this project. (not a real one,
 just a practice)
-# Test Video
+
+### Test Video
 <video src="./Xcavenger.mp4" controls="controls" width="640" height="320" autoplay="autoplay">
 Your browser does not support the video tag.
 </video>

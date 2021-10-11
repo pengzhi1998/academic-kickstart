@@ -20,11 +20,7 @@ external_link = ""
 
 +++
 
-This project simulated the dissipation of the computer case based on **Flotherm**. I explored 
-the relationship between heat dissipation and spread, convection and radiation.
-Then, by optimizing the structure (the position of the elements, the number, thickness of fins, and
-the position of the fans), I kept the temperature of the monitored points below 70 and 87 degrees Celsius.
-<br>
-Meanwhile, I designed a wind deflector which could help keep the temperature under 90 degrees Celsius even
-the frequency of the big fan was limited. <br>
+1. Built a computer mainframe case in **Flotherm**. Adjusted the structure of the whole case and the parameters of the accessories according to thermodynamic theory and simulation results; kept the temperature of three monitored points below 90 ℃.
+2. Proposed an original design of the thermal conductivity structure; the dissipation efficiency was improved.
+
 The report (Chinese version) for this project is [here](./Computer Case Dissipation.pdf).

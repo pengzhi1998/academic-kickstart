@@ -77,6 +77,9 @@ This is called deep pipeline. <br>
 As requested, we were supposed to design 8-point FFT algorithm and run it on the CPU. To test the 
 reliability of it, we calculated the 8-point FFT for 100 times. This is the FFT flow chart:
 ![FFT flow chart](img/FFT.jpg)
+<center class="half">
+    <img src="img/FFT.jpg" width="50"/><img src="img/FPGA.jpg" width="50"/>
+</center>
 We implemented it then figured out it satisfied the time constraint. Our frequency was around 81.78Mhz. We won the first place of this project! <br>
 ##### Test on FPGA
 At last we ran the file on FPGA. (This was not the main part of our project) <br>

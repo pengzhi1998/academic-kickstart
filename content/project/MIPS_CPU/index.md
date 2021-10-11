@@ -67,8 +67,7 @@ step moves to the next step, while the previous step handles the subsequent inst
 Overall, the pipeline is consisited of 5 parts, fetch, decode, execute, store as well as write back. But
 we adjusted the structure and function of the RAMs, one of them could write and read at the same time, while
 another one could only write or read at one time. The optimized datapath is shown below.
-![datapath.png](img/datapath.jpg)
-<div align=center><img src="img/datapath.jpg" width="500"></div>
+<div align=center><img src="img/datapath.jpg" width="400"></div>
 However, it's not enough for the improvement of the efficiency. The multiplier in ALU had become the
 bottleneck as said before. Then we divided it again. At last, the CPU pipeline was consisted of 8 stages.
 This is called deep pipeline. <br>
@@ -77,11 +76,7 @@ This is called deep pipeline. <br>
 ##### FFT (I'm not responsible for this part)
 As requested, we were supposed to design 8-point FFT algorithm and run it on the CPU. To test the 
 reliability of it, we calculated the 8-point FFT for 100 times. This is the FFT flow chart:
-![FFT](img/FFT.jpg)![FPGA](img/FPGA.jpg)
-
-<div align="center">
-    <img src="img/FFT.jpg" height="80px"><img src="img/FPGA.jpg" height="80px">
-</div>
+![FFT](img/FFT_FPGA.png)![FPGA]
 We implemented it then figured out it satisfied the time constraint. Our frequency was around 81.78Mhz. We won the first place of this project! <br>
 ##### Test on FPGA
 At last we ran the file on FPGA. (This was not the main part of our project) <br>

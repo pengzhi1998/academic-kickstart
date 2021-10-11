@@ -25,7 +25,9 @@ external_link = ""
 # image = "MIPS_CPU/FPGA.png"
 
 +++
-During the internship at Tencent RoboticsX Lab, I
- was responsible for adapting the trained model from
- Pybullet to Gazebo and Real World. <br>
- Leader: Dr. Cheng Zhou
+
+1.	Trained a deep reinforcement learning (PPO) model with reference motions to control a quadruped robot, Max, to walk in Pybullet.
+2.	Applied Domain Randomization by randomizing dynamic parameters (friction, robot’s mass and etc.) during training. Successfully transferred the model to Gazebo and real-world environments.
+3.	Introduced domain adaptation: predicting dynamic parameters using sequences of Max’s state, action data in Pybullet. Fed the predicted parameters for the PPO network and computed more adaptable control policies for Max’s locomotion. Obtained a 5.09% higher average reward in various environments in Gazebo compared with Robust DRL controller.
+4.	Deployed the code in Tencent TLeague Framework, and nearly five times accelerated the training speed. During testing, realized a faster real-time control with C++ deep learning codes (Eigen).
+

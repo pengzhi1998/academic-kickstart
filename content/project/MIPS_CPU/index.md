@@ -26,7 +26,7 @@ external_link = ""
 
 +++
 
-# Overview
+### Overview
 Based on gate-level circuit design, we implemented a 32 bits CPU in Verilog. It contains the main parts of a fully
 functional pipelined CPU. Then we embedded deep pipeline into the ALU. <br>
 We ran 100 8-point
@@ -38,8 +38,8 @@ The main work for the project is as follows: <br>
 2. High efficiency assembly language of FFT. <br>
 3. Hazard detection and the test of FFT on the simulated CPU.
 
-# Main Module Design
-## ALU (mainly on Multiplier)
+### Main Module Design
+##### ALU (mainly on Multiplier)
 We were required to implement gate-level Arithmetic Logical Unit (unlike behavior-level 
 ALU, we were requested to implement the detail of the gates). When implementing it, we firstly designed
 a simple unsigned multiplier based on the image below. 
@@ -53,12 +53,13 @@ by bits. Here are 32-bit analytical circuit and the waveform of simulation.
 Then, to reduce the consumption of the resource, we connected the units based on the bits and cancelled the 
 shifter. Meanwhile, we figured out in all the critical path included the multiplier. As a result, to 
 improve the efficiency of our CPU, we add registers into the ALU along with the control unit. <br>
-## Datapath and Control
-### Control
+
+### Datapath and Control
+##### Control
 We had got all the units. But to make the CPU run smoothly, we still needed a control part. We used two decoders
 to realize the functions. 
 ![Control Part](img/Control Part.jpg) <br>
-### Pipeline and Datapath
+##### Pipeline and Datapath
 Pipelining is a technology that decomposes instructions into multiple steps and overlaps the steps of 
 different instructions so that several instructions can be processed in parallel to speed up the process of
 porgram running. Each step of the instructions has its own circuit parts to process, and each completed 
@@ -71,22 +72,22 @@ However, it's not enough for the improvement of the efficiency. The multiplier i
 bottleneck as said before. Then we divided it again. At last, the CPU pipeline was consisted of 8 stages.
 This is called deep pipeline. <br>
 ## Test
-### FFT (I'm not responsible for this part)
+##### FFT (I'm not responsible for this part)
 As requested, we were supposed to design 8-point FFT algorithm and run it on the CPU. To test the 
 reliability of it, we calculated the 8-point FFT for 100 times. This is the FFT flow chart:
 ![FFT flow chart](img/FFT.jpg)
 We implemented it then figured out it satisfied the time constraint. Our frequency was around 81.78Mhz. We won the first place of this project! <br>
-### Test on FPGA
+##### Test on FPGA
 At last we ran the file on FPGA. (This was not the main part of our project) <br>
 This is the [code for this project](https://github.com/pengzhi1998/Deep-Pipelined-CPU-on-FPGA). <br>
 
-# Final Words
-## Future Work
+### Final Words
+##### Future Work
 There are several things we could do to improve the project:<br>
 1. Add the conflict detection to avoid the possible conflicts. <br>
 2. Design multi-Core processor. <br>
 3. Complete the function to make it deal with all the instructions. <br>
-## Acknowledgement
+##### Acknowledgement
 It's really a great project, thank you for Prof. Jianhao Hu, Prof. Shang Ma and Associate Professor Jienan Chen, they provided us with amazing materials.
 And it was a great time work with Zhongyao Cao and Sufang Yang, they both are young researchers and partners.
 

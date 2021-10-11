@@ -20,6 +20,6 @@ tags = ["Programming","CS"]
 external_link = ""
 +++
 
-1. 	Course project of Translation of Programming Languages (CS160). The 6 projects included scanner, parser, Abstract Syntax Tree (AST), type checking and code generation.
-2. Completed the project which comprised major components of an intact compiler for C++. All test cases parsed successfully with no errors and outputted valid X86 assembly code.
-3. Received a grade of A+ for the course.
+1. 	Course project of Translation of Programming Languages (CS160). The 6 projects included **Scanner**, **Parser**, **Abstract Syntax Tree (AST)**, **Type Checking** and **Code Generation**.
+2. Completed the project which comprised major components of an intact compiler for C++. All test cases parsed successfully with no errors and outputted valid **X86** assembly code.
+3. Received a grade of **A+** for the course.

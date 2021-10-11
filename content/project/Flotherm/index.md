@@ -29,6 +29,7 @@ Meanwhile, I designed a wind deflector which could help keep the temperature und
 the frequency of the big fan was limited. <br>
 The report (Chinese version) for this project is [here](./Computer Case Dissipation.pdf).
 
++++
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -81,3 +82,4 @@ height = ""
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
++++
